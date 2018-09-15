@@ -1,2 +1,2 @@
 # ctf
-ctf writeup or back up
+CTF writeup or back up
