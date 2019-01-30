@@ -1,6 +1,8 @@
 # NEWSECU CTF <br>
 ##### 2019.01.28 18:00 ~ 2019.01.29 06:00
 
+#### ctf.newsecu.kr/
+
 ![ranking](./ranking.png)
 
 '2019.01.29 2시 40분 기준 60등'
